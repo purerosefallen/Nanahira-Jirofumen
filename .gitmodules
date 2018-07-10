@@ -1,3 +1,6 @@
 [submodule "Omoiyoshino"]
 	path = Omoiyoshino
 	url = https://github.com/purerosefallen/Omoiyoshino
+[submodule "16th"]
+	path = 16th
+	url = https://github.com/purerosefallen/16th
